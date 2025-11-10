@@ -15,7 +15,3 @@ Jogo da Velha (Tic‑Tac‑Toe) em React — projeto para exercício.
    npm start
    ```
 4. O app abrirá em `http://localhost:3000`.
-
-## Licença
-
-Este repositório está licenciado sob **Creative Commons Attribution 4.0 International (CC BY 4.0)**. Consulte o arquivo `LICENSE` para o texto completo.
